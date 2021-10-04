@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a freelancing web developer
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on basic landing pages
-- 📫 How to reach me clarjr2016@gmail.com
+- 📫 How to reach me clarkjr2016@gmail.com
 
 <!---
 clarkjr2016/clarkjr2016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
