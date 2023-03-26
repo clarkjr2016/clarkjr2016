@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @clarkjr2016
-- 👀 I’m interested in becoming a freelancing web developer
-- 🌱 I’m currently learning HTML & CSS
-- 💞️ I’m looking to collaborate on basic landing pages
-- 📫 How to reach me clarkjr2016@gmail.com
+- 👋 Hi, I’m @clarkjr2016 also known as the elephant coder
+- 👀 Aspiring web developer
+- 💞️ I’m looking to grow and develop my knowledge in all things web development
+- 📫 How to reach me clarkjr2016@pm.me
 
 <!---
 clarkjr2016/clarkjr2016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
