@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @clarkjr2016 also known as the elephant coder
+- 👋 Hi, I’m @clarkjr2016
 - 👀 Software Engineer
 - 💞️ I’m looking to grow and develop my knowledge in all things web development
 - 📫 How to reach me clarkjr2016@pm.me
