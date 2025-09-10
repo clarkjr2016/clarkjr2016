@@ -1,14 +1,14 @@
-# Howdy 👋🏿, I'm Eugene Clark
+<center> # Howdy 👋🏿, I'm Eugene Clark </center>
 
 ***
 
-I'm a technology enthusiast looking to make the world a better place one word at a time 😎
+<center> ### I'm a technology enthusiast looking to make the world a better place one word at a time 😎 </center>
 
 - I'm currently learning Node.js and tinkering more with backend development
 - You can check out my projects on https://eugeneclarkjr.com
 - You can reach me at clarkjr2016@pm.me
 
-**Add me on my socials:**  
+### Add me on my socials:  
 
 [![twitter](https://readmecodegen.vercel.app/api/social-icon?name=twitter)](https://x.com/clarkjr2016)
 <!---
