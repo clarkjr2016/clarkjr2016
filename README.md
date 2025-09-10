@@ -1,8 +1,8 @@
-<center> # Howdy 👋🏿, I'm Eugene Clark </center>
+# <center>  Howdy 👋🏿, I'm Eugene Clark </center>
 
 ***
 
-<center> ### I'm a technology enthusiast looking to make the world a better place one word at a time 😎 </center>
+ ### <center> I'm a technology enthusiast looking to make the world a better place one word at a time 😎 </center>
 
 - I'm currently learning Node.js and tinkering more with backend development
 - You can check out my projects on https://eugeneclarkjr.com
